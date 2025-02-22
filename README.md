@@ -14,8 +14,8 @@ Este proyecto demuestra cómo utilizar Redis como almacenamiento en caché para 
 ## Instalación y Uso
 ### 1. Clonar el Repositorio
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/jlchavarriaga/redis)
+   cd redis
    ```
 ### 2. USO
 1. Crear un entorno virtual con: `python -m venv venv`
